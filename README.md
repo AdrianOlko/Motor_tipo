@@ -4,6 +4,6 @@ Codigo correspondiente al trabajo de fin de master Estudio cualitativo de las ca
 El Notebook resultados tiene algunas graficas listas para probar datos, para que el codigo funciones necesitaras las siguientes libraries instaladas:
 
 -Numpy
--Pyturb
+-Pyturb \\ https://github.com/MRod5/pyturb
 
-Si no quieres usar la libreria pyturb puedes sustituir la R del aire y las relaciones de temperatura, presion y densidad con la altura que quieras.
+Es posible sustituir la libreria -pyturb, para ello debes introducir la R del aire y las funciones de temperatura, presion y densidad con la altura.
